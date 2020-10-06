@@ -1,0 +1,36 @@
+/* CSS Document */
+
+a {
+    color: #FF8C42;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    color: #fff;
+    background-color: #4E598C;
+}
+
+h1 {
+    font-size: 36px;
+    line-height: 40px;
+	margin: 1em 0 0.5em 0;
+	font-weight: 100;
+	text-transform: uppercase;
+	color: #FF8C42;
+	font-style: italic;
+	font-family: 'amaranth' , sans-serif;
+	text-shadow: 2px 5px 0 rgba(0,0,0,0.2);
+}
+
+h2 {
+    font-size: 30px;
+    line-height: 40px;
+	margin: 1em 0 0.5em 0;
+	color: #FCAF58;
+	font-family: 'amaranth', sans-serif;
+}
+
+p {color: #000080;
+	
+}
